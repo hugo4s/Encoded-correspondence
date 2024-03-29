@@ -2,28 +2,26 @@
 
 
 
-# Projeto: Correspondência Codificada
+# Project: Encoded Correspondence
 
-Neste projeto, exploramos diferentes tipos de cifras e utilizamos habilidades de programação em Python para decifrar e codificar mensagens. O projeto incluiu a implementação das cifras de César e Vigenère, bem como a criação de funções para decodificação e codificação.
+## Description
 
-## Descrição
+During the project, we worked with our friend and pen pal, Vishal, exchanging encoded messages. Here's a summary of the activities conducted:
 
-Durante o projeto, trabalhamos com nosso amigo e pen pal, Vishal, trocando mensagens codificadas. Aqui está um resumo das atividades realizadas:
+1. **Decoding Vishal's Message:** We decoded a message from Vishal which utilized the Caesar cipher with a shift of 10 characters.
 
-1. **Decodificação da Mensagem de Vishal:** Decodificamos uma mensagem de Vishal que utilizava a cifra de César com um deslocamento de 10 caracteres.
+2. **Sending a Encoded Message to Vishal:** We responded to Vishal with an encoded message using the same 10-character shift.
 
-2. **Envio de uma Mensagem Codificada para Vishal:** Respondemos a Vishal com uma mensagem codificada usando o mesmo deslocamento de 10 caracteres.
+3. **Creation of Decoding and Encoding Functions:** We implemented functions to decode and encode messages using the Caesar cipher, making it easier to manipulate encoded messages.
 
-3. **Criação de Funções de Decodificação e Codificação:** Implementamos funções para decodificar e codificar mensagens usando a cifra de César, facilitando a manipulação de mensagens codificadas.
+4. **Decoding a Message without Knowing the Shift:** We brute-forced the decoding of a message from Vishal, where he didn't provide the shift used in the Caesar cipher.
 
-4. **Decodificação de uma Mensagem sem Conhecer o Deslocamento:** Brute-forçamos a decodificação de uma mensagem de Vishal, que não nos forneceu o deslocamento usado na cifra de César.
+5. **Introduction to Vigenère Cipher:** We learned about the Vigenère cipher and implemented functions to decode and encode messages using this cipher.
 
-5. **Introdução à Cifra de Vigenère:** Aprendemos sobre a cifra de Vigenère e implementamos funções para decodificar e codificar mensagens usando essa cifra.
+6. **Sending a Message with Vigenère Cipher:** We created a function to encode messages using the Vigenère cipher and sent an encoded message to Vishal.
 
-6. **Envio de uma Mensagem com a Cifra de Vigenère:** Criamos uma função para codificar mensagens usando a cifra de Vigenère e enviamos uma mensagem codificada para Vishal.
+## How to Use
 
-## Como Usar
+You can access each part of the project by navigating through the provided files. Each project step is clearly documented and accompanied by functional Python code.
 
-Você pode acessar cada parte do projeto navegando pelos arquivos fornecidos. Cada etapa do projeto está claramente documentada e acompanhada de código Python funcional.
-
-Para executar o código Python, você pode copiar e colar o código em um ambiente de desenvolvimento Python, como o Jupyter Notebook, ou em um arquivo Python (.py) e executá-lo em sua máquina local.
+To run the Python code, you can copy and paste the code into a Python development environment such as Jupyter Notebook, or into a Python file (.py) and run it on your local machine.
