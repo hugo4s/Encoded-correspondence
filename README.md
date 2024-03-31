@@ -2,26 +2,28 @@
 
 
 
-# Project: Encoded Correspondence
+# Coded Correspondence Project
 
-## Description
+## Overview
+The Coded Correspondence project is an exploration of cryptography using Python programming. In this project, you'll decipher encoded messages and encode your own responses using various cryptographic techniques. The project involves decoding Caesar Ciphers, encoding messages using Caesar Cipher, decoding messages without knowing the shift value, and understanding and using the Vigenère Cipher.
 
-During the project, we worked with our friend and pen pal, Vishal, exchanging encoded messages. Here's a summary of the activities conducted:
+## Project Goals
+- **Decoding Caesar Ciphers**: Decode messages encoded using Caesar Ciphers with known shift values.
+- **Encoding Caesar Ciphers**: Encode messages using Caesar Ciphers.
+- **Brute Force Decoding**: Crack Caesar Cipher messages without knowing the shift value through brute force.
+- **Understanding Vigenère Cipher**: Learn about the Vigenère Cipher and its operation.
+- **Decoding Vigenère Cipher**: Decode messages encoded using the Vigenère Cipher.
+- **Encoding Vigenère Cipher**: Encode messages using the Vigenère Cipher.
 
-1. **Decoding Vishal's Message:** We decoded a message from Vishal which utilized the Caesar cipher with a shift of 10 characters.
+## Prerequisites
+Basic understanding of Python programming concepts such as loops, conditionals, and functions is recommended before attempting this project.
 
-2. **Sending a Encoded Message to Vishal:** We responded to Vishal with an encoded message using the same 10-character shift.
+## Project Requirements
+1. **Decode Caesar Cipher**: Decode messages encoded using a Caesar Cipher with a known shift value.
+2. **Encode Caesar Cipher**: Encode messages using a Caesar Cipher.
+3. **Brute Force Decoding**: Crack Caesar Cipher messages without knowing the shift value through brute force.
+4. **Decode Vigenère Cipher**: Decode messages encoded using the Vigenère Cipher.
+5. **Encode Vigenère Cipher**: Encode messages using the Vigenère Cipher.
 
-3. **Creation of Decoding and Encoding Functions:** We implemented functions to decode and encode messages using the Caesar cipher, making it easier to manipulate encoded messages.
-
-4. **Decoding a Message without Knowing the Shift:** We brute-forced the decoding of a message from Vishal, where he didn't provide the shift used in the Caesar cipher.
-
-5. **Introduction to Vigenère Cipher:** We learned about the Vigenère cipher and implemented functions to decode and encode messages using this cipher.
-
-6. **Sending a Message with Vigenère Cipher:** We created a function to encode messages using the Vigenère cipher and sent an encoded message to Vishal.
-
-## How to Use
-
-You can access each part of the project by navigating through the provided files. Each project step is clearly documented and accompanied by functional Python code.
-
-To run the Python code, you can copy and paste the code into a Python development environment such as Jupyter Notebook, or into a Python file (.py) and run it on your local machine.
+## Solution
+The solution to the Coded Correspondence project involves writing Python functions to decode and encode messages using Caesar Cipher and Vigenère Cipher. It demonstrates understanding of cryptographic concepts and effective implementation of these concepts in Python programming. For a detailed solution, refer to the code snippets provided throughout the project description. Keep in mind that there may be variations in individual solutions, showcasing diverse problem-solving approaches.
